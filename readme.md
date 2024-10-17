@@ -1,6 +1,3 @@
-Apologies for that! Here’s the **README.md** content fully formatted in Markdown syntax, ensuring all sections and items are properly marked:
-
-```markdown
 # Daily Expenses Sharing Application - Backend
 
 This repository contains the backend for a daily-expenses sharing application. The application allows users to add and split expenses using various methods (exact amounts, percentages, or equal split), manage user details, and generate downloadable balance sheets.
@@ -40,7 +37,8 @@ Make sure you have the following installed on your local development environment
    ```bash
    git clone https://github.com/your-username/expenses-sharing-app-backend.git
    cd expenses-sharing-app-backend
-   ```
+
+
 
 2. **Install Dependencies:**
 
@@ -169,17 +167,3 @@ You can use [Postman](https://www.postman.com/) or any other API testing tool to
    
 3. **Download Balance Sheet**:
    - Use `GET /download-balance-sheet` to download the balance sheet as a CSV file.
-
-## Future Improvements
-
-- Add user authentication (e.g., OAuth2) for secure access.
-- Implement unit and integration tests using Jest or Mocha.
-- Add support for exporting balance sheets in different formats (e.g., PDF).
-- Optimize performance for large datasets.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This version includes all sections, code blocks, and lists properly formatted in Markdown. You can copy and paste this into your `README.md` file in your GitHub repository. Let me know if you need any further adjustments!
